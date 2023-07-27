@@ -9,3 +9,11 @@ body {
   font-size: 18px;
   font-weight: 500;
 }
+#team{
+  background-image: url('../Assets/images/team.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5rem 0;
+  position: relative;
+}
